@@ -64,7 +64,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.50</version>
+            <version>1.2.73</version>
         </dependency>
         <dependency>
             <groupId>org.bouncycastle</groupId>
@@ -184,7 +184,7 @@
                         <format>html</format>
                         <format>xml</format>
                     </formats>
-                    <check />
+                    <check/>
                 </configuration>
             </plugin>
         </plugins>
